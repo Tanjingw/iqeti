@@ -1,14 +1,12 @@
 ---
-title: Richard Hendricks Wins First Place in the Wowchemy Prize
+Urban Housing Prices and Floating Population’s Willingness to Fertility
 date: 2020-12-01
 ---
 
-Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
+Urban Housing Prices and Floating Population’s Willingness to Fertility——Empirical analysis based on China Migrants Dynamic Survey 2018.
 
 <!--more-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+While the size of China's mobile population continues to expand, the fertility rate is significantly lower than the stable generation replacement level of the population, and the structural imbalance of human resource supply has attracted widespread attention. This paper uses LPM and Probit models to estimate the impact of house prices on the fertility intentions of the mobile population based on data from the 2018 National Mobile Population Dynamics Monitoring Survey. The lagged land sales price is used as an instrumental variable of house price to mitigate the potential endogeneity problem. The results show that for every 100\% increase in the ratio of house price to household income of mobile population, the fertility intention of the female mobile population of working age at the inflow location will decrease by 4.42\%, and the marginal effect of relative house price on labor force fertility intention is EXP(-0.222); the sensitivity of mobile population fertility intention to house price is affected by the moderating effect of infrastructure construction at the inflow location. The willingness to have children in the inflow area is higher for female migrants of working age with lower age, smaller family size and higher education. Based on the above findings, the study attempts to provide a new practical perspective for the mainline institutional change and balanced economic development in China's economic transition phase.
 
-Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.
-
-Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.
+URL: https://arxiv.org/abs/2112.07273
